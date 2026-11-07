@@ -1,0 +1,17 @@
+# Prolog compiled files
+*.qlf
+*.po
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
